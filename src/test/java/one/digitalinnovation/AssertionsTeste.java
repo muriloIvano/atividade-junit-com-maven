@@ -3,7 +3,7 @@ package one.digitalinnovation;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class AssertionsTest {
+public class AssertionsTeste {
     @Test
     void validarLancamentos(){
         int [] primeiroLancamento = {10, 20, 30, 40, 50};

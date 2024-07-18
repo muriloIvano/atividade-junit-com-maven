@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 
-public class ContaPessoaTest {
+public class ContaPessoaTeste {
     @Test // -> Anotação primordial para realizar um teste
     void calcularSaldo() {
         ContaPessoa contaPessoa = new ContaPessoa("Murilo", 18, 200);
